@@ -1,2 +1,2 @@
 # android-final
-Если ты это читаешь то ты лалка 
+lorem ipsum
